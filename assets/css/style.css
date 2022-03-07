@@ -1,0 +1,8 @@
+body{
+    background-color: rgba(252, 252, 252, 0.549);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
