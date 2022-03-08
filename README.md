@@ -1,6 +1,3 @@
-<h1> Esse é o meu primeiro projeto em Javascript </h1>
+<h1>Meu começo no Javascript</h1>
 
-<h4>O projeto consiste em um contador, onde o botão (-) subtrai o valor 1 do número e o botão (+) soma o valor 1 ao número.</h4>
-
-<footer>Desenvolvido por Davi Bittencourt</footer>
-
+<p>Aqui estão os meus primeiros projetos em Javascript, o primeiro é um contador e o segundo é uma to-do list</p>
